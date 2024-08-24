@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-header ul, 
+header ul,
+header p.view,
 footer {
 	display: none;
 }
