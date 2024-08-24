@@ -1,4 +1,4 @@
-# Blunderdome Guest Access
+# Network Error
 
 The page you are trying to reach is only accessible from the **Blunderdome Guest** wireless network.
 
