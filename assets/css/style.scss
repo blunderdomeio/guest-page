@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
-header ul, footer {
+header ul, 
+footer {
 	display: none;
+}
+
+section p,
+section li {
+	font-size: 13pt;
 }
