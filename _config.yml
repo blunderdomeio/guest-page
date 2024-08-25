@@ -2,5 +2,3 @@ title: Blunderdome Guest Access
 show_downloads: false
 remote_theme: pages-themes/modernist@v0.2.0
 encoding: utf-8
-plugins:
-  - github-pages
